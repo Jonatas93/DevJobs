@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DevJobs.API.Persistence.Repositories
 {
-    public interface IJobVacancyRepository
+    public class IJobVacancyRepository
     {
         
     }
